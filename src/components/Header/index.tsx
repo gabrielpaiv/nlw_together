@@ -6,7 +6,7 @@ import { Feather } from '@expo/vector-icons';
 
 import { theme } from '../../global/styles/theme';
 import { styles } from './styles';
-import { useNavigation } from '@react-navigation/core';
+import { useNavigation } from '@react-navigation/native';
 
 type Props = {
     title: string;
